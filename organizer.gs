@@ -1,7 +1,3 @@
-
-## 📁 File 2: emailOrganizer.gs
-
-```javascript
 /**
  * Gmail Organizer - Label & Delete Automation
  * 
@@ -33,7 +29,7 @@
  *     emailOlderThan: 90,
  *     action: 'delete',
  *     searchLabel: 'INBOX',
- *     forwardTo: 'backup@example.com'
+ *     forwardTo: 'backup@company.com'
  *   });
  *
  * Options:
